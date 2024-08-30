@@ -1,0 +1,8 @@
+[
+    {
+        "ScheduleMacroId" : 602569604,
+        "MacroName" : "claim-telegrams",
+        "MSecsFromEpochUTCStartTime" : "1725056460000",
+        "MSecsRepeatTime" : "7200000"
+    }
+]

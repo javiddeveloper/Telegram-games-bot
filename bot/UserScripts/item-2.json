@@ -1,0 +1,18 @@
+{
+    "Events": [
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 1528,
+            "X": 77.2699966430664,
+            "Y": 25.770000457763672
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 1666,
+            "X": 77.2699966430664,
+            "Y": 25.770000457763672
+        }
+    ]
+}
