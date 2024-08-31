@@ -3,6 +3,167 @@
         {
             "Activity": "claim-telegrams",
             "Source": "BlueStacks App Player",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20240831T151315"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 4,
+            "Success": false,
+            "Timestamp": "20240831T145100"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20240831T144650"
+        },
+        {
+            "Activity": "claim-baby",
+            "Source": "BlueStacks App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20240831T144638"
+        },
+        {
+            "Activity": "claim-baby",
+            "Source": "BlueStacks App Player",
+            "Status": 3,
+            "Success": true,
+            "Timestamp": "20240831T144205"
+        },
+        {
+            "Activity": "claim-baby",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20240831T144154"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20240831T144140"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 3,
+            "Success": true,
+            "Timestamp": "20240831T144128"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20240831T143812"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20240831T143140"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20240831T143109"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20240831T130801"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20240831T125100"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20240831T110801"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20240831T105100"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20240831T090801"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20240831T085100"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20240831T070801"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20240831T065100"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20240831T050801"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20240831T045100"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20240831T030801"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20240831T025100"
+        },
+        {
+            "Activity": "claim-telegrams",
+            "Source": "BlueStacks App Player",
             "Status": 1,
             "Success": true,
             "Timestamp": "20240831T011522"
